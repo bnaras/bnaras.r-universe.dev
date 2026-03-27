@@ -2,5 +2,13 @@
     {
         "package": "gurobi",
         "url": "https://github.com/bnaras/gurobi"
+    },
+    {
+        "package": "xpress",
+        "url": "https://github.com/bnaras/xpress"
+    },
+    {
+        "package": "scip",
+        "url": "https://github.com/bnaras/scip"
     }
 ]
