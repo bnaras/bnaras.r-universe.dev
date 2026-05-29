@@ -10,5 +10,9 @@
     {
         "package": "scip",
         "url": "https://github.com/bnaras/scip"
+    },
+    {
+        "package": "ipopt",
+        "url": "https://github.com/bnaras/ipopt"
     }
 ]
