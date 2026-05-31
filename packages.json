@@ -12,6 +12,10 @@
         "url": "https://github.com/bnaras/scip"
     },
     {
+        "package": "Uno",
+        "url": "https://github.com/bnaras/Uno"
+    },    
+    {
         "package": "ipopt",
         "url": "https://github.com/bnaras/ipopt"
     }
