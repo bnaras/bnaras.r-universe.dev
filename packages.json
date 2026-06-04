@@ -12,6 +12,14 @@
         "url": "https://github.com/bnaras/scip"
     },
     {
+        "package": "diffcp",
+        "url": "https://github.com/bnaras/diffcp"
+    },
+    {
+        "package": "sparsediff",
+        "url": "https://github.com/bnaras/sparsediff"
+    },
+    {
         "package": "Uno",
         "url": "https://github.com/bnaras/Uno"
     }
