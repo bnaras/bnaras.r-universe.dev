@@ -24,7 +24,7 @@
         "url": "https://github.com/bnaras/Uno"
     },
     {
-        "package": "openfhe",
+        "package": "openfhe.R",
         "url": "https://github.com/bnaras/openfhe.R"
     }
     
