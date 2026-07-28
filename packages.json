@@ -22,10 +22,5 @@
     {
         "package": "Uno",
         "url": "https://github.com/bnaras/Uno"
-    },
-    {
-        "package": "openfhe",
-        "url": "https://github.com/bnaras/openfhe.R"
-    }
-    
+    }    
 ]
